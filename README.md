@@ -150,11 +150,11 @@ school.html
 
 ## OUTPUT
 ![alt text](sharon/mapapp/static/map.png)
-![alt text](<sharon/mapapp/static/WhatsApp Image 2025-04-21 at 16.12.55_de594956.jpg>)   
-![alt text](<sharon/mapapp/static/WhatsApp Image 2025-04-21 at 16.13.18_e45bc5da.jpg>)
-![alt text](<sharon/mapapp/static/WhatsApp Image 2025-04-21 at 16.13.39_ffd0bae9.jpg>)
-![alt text](<sharon/mapapp/static/WhatsApp Image 2025-04-21 at 16.14.08_c625534f.jpg>)
-![alt text](<sharon/mapapp/static/WhatsApp Image 2025-04-21 at 16.14.38_db168d08.jpg>)
+![alt text](<WhatsApp Image 2025-04-21 at 16.12.55_de594956.jpg>)
+![alt text](<WhatsApp Image 2025-04-21 at 16.13.18_e45bc5da.jpg>)
+![alt text](<WhatsApp Image 2025-04-21 at 16.13.39_ffd0bae9.jpg>)
+![alt text](<WhatsApp Image 2025-04-21 at 16.14.08_c625534f.jpg>)
+![alt text](<WhatsApp Image 2025-04-21 at 16.14.38_db168d08.jpg>)
 
 ## RESULT
 The program for implementing image maps using HTML is executed successfully.
