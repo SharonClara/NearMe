@@ -26,7 +26,7 @@ Execute the programs and publish them.
 
 ## CODE
 ```
-map.html
+map.html M
 <html>
     <head>
         <title>My City</title>
@@ -39,7 +39,7 @@ map.html
             <font color="black" size ="5"><b>SHARON CLARA A (24900191)</b></font>
         </h3>
         <center>
-            <img src="map.png" usemap="#image-map">
+            <img src="map.jpg" usemap="#image-map">
 
 <map name="image-map">
     <area target="" alt="ISABEL SCHOOL" title="ISABEL SCHOOL" href="school" coords="153,611,390,733" shape="rect">
@@ -53,6 +53,7 @@ map.html
         </center>
     </body>
 </html>
+
 
 school.html
 <html>
