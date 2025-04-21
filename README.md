@@ -26,7 +26,7 @@ Execute the programs and publish them.
 
 ## CODE
 ```
-map.html M
+map.html 
 <html>
     <head>
         <title>My City</title>
@@ -39,7 +39,7 @@ map.html M
             <font color="black" size ="5"><b>SHARON CLARA A (24900191)</b></font>
         </h3>
         <center>
-            <img src="map.jpg" usemap="#image-map">
+            <img src="map.png" usemap="#image-map">
 
 <map name="image-map">
     <area target="" alt="ISABEL SCHOOL" title="ISABEL SCHOOL" href="school" coords="153,611,390,733" shape="rect">
@@ -150,7 +150,7 @@ school.html
 ```
 
 ## OUTPUT
-![alt text](sharon/mapapp/static/map.png)
+![alt text](<WhatsApp Image 2025-04-22 at 04.43.18_422dcbcd.jpg>)
 ![alt text](<WhatsApp Image 2025-04-21 at 16.12.55_de594956.jpg>)
 ![alt text](<WhatsApp Image 2025-04-21 at 16.13.18_e45bc5da.jpg>)
 ![alt text](<WhatsApp Image 2025-04-21 at 16.13.39_ffd0bae9.jpg>)
